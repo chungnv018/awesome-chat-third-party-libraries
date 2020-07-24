@@ -1,0 +1,14 @@
+{
+  "name": "bower_components",
+  "version": "1.0.1",
+  "authors": [
+    "Chung Nguyen <chungnv018@gmail.com>"
+  ],
+  "description": "Tổng hợp những thư viện bên thứ 3 sử dụng cho dự án Chat Realtime Messenger",
+  "main": "/",
+  "keywords": [
+    "awesome-chat-third-party-libraries"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chungnv018/awesome-chat-third-party-libraries.git"
+}
